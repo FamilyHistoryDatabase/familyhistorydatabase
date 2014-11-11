@@ -5,7 +5,7 @@ Current Public version of the familyhistorydatabase.
 
 Getting Started (after forking/cloning the repo)
 ================================================
-1. Make sure you have Node.js installed on your machine.
+1. Make sure you have Node.js and Git installed on your machine and in your PATH.
 2. Once node.js is installed run `npm -v` to assure it is installed
 3. With npm run these two commands:
 `npm install grunt-cli -g`
