@@ -11,7 +11,7 @@ Getting Started (after forking/cloning the repo)
 `npm install grunt-cli -g`
 `npm install bower -g`
 4. Install Ruby
-5. Install Compass
+5. Install Compass (after checking to make sure ruby is installed run `gem update --system` and then `gem install compass`)
 6. Make sure all of the steps above are complete by checking versions
 7. Once they've all been installed, move to the `familyhistorydatabase/client/familyhistorydatabase/` folder and run `npm install` and then `bower install`
 8. If those were done correctly, you should be able to run a build -> `grunt build` without any errors.
